@@ -1,0 +1,24 @@
+/vendor/
+.env
+.env.*
+!.env.example
+
+# Log files
+*.log
+
+
+.vscode/
+
+# Cache and temp
+/storage/
+cache/
+tmp/
+
+# Coverage reports and test artifacts
+/coverage/
+tests/_output/
+tests/_support/_generated/
+
+# Database files
+*.sqlite
+*.db

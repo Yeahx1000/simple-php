@@ -1,0 +1,11 @@
+{
+    "name": "enacra/simple-php",
+    "description": "simple practice php project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Enacra\\SimplePhp\\": "src/"
+        }
+    },
+    "require": {}
+}

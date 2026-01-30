@@ -1,0 +1,1 @@
+<!-- this is the application configuration file for the project -->
